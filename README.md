@@ -24,7 +24,7 @@ Operating below the radar with precision-crafted payloads, deep recon, and zero-
 | Category         | Tools |
 |------------------|-------|
 | 🔍 **Recon**      | `amass`, `subfinder`, `httpx`, `nmap`, `ffuf` |
-| 💥 **Exploitation** | `Burp Suite`, `sqlmap`, `XSStrike`, custom payloads |
+| 💥 **Exploitation** | `Burp Suite`, `sqlmap`, `XSStrike` |
 | 🧠 **Reversing**   | `Ghidra`, `IDA Pro`, `Radare2`, `Objection` |
 | 🎯 **Post-Exploit**| `Sliver`, `Empire`, `Mimikatz`, `BloodHound` |
 | 🛠 **Scripting**   | `Python`, `Bash`, `PowerShell` |
