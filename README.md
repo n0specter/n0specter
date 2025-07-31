@@ -6,7 +6,7 @@
   <img src="https://img.shields.io/badge/Recon%20|%20Exploit%20|%20Reversing%20|%20Post--Exploitation-black?style=flat-square&color=7e3af2">
 </p>
 
-<h1 align="center">👾 NullSpecter 👾</h1>
+<h1 align="center">👾 Cold Executor 👾</h1>
 
 <p align="center"><em>"I operate in silence. You won’t see me, but you’ll feel the breach."</em></p>
 
@@ -14,7 +14,7 @@
 
 ## 🧠 About Me
 
-🕶️ `n0specter` — Red Teamer. Exploit Dev. Reverse Engineer. Bug Bounty Hunter.  
+🕶️ `coldexec` — Red Teamer. Exploit Dev. Reverse Engineer. Bug Bounty Hunter.  
 Operating below the radar with precision-crafted payloads, deep recon, and zero-noise exfiltration.
 
 ---
@@ -41,9 +41,9 @@ Operating below the radar with precision-crafted payloads, deep recon, and zero-
 
 ## 📡 Contact
 
-- 📧 `nullspectr@proton.me`  
+- 📧 `coldexecutor@proton.me`  
 - 📍 Blog / OSINT dumps: coming soon...  
-- 🛡️ GitHub: [github.com/n0specter](https://github.com/n0specter)
+- 🛡️ GitHub: [github.com/coldexec](https://github.com/coldexec)
 
 ---
 
